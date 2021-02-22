@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name IRL540NSTRLPBF)(type Legacy)(uri ${KIPRJMOD}/lib/IRL540NSTRLPBF/IRL540NSTRLPBF.lib)(options "")(descr ""))
+  (lib (name PC817X2NIP1B)(type Legacy)(uri ${KIPRJMOD}/lib/PC817X2NIP1B/PC817X2NIP1B.lib)(options "")(descr ""))
+  (lib (name DRV8825-M)(type Legacy)(uri ${KIPRJMOD}/lib/DRV8825-M/DRV8825-M.lib)(options "")(descr ""))
+  (lib (name STM32_Blue_Pill)(type Legacy)(uri ${KIPRJMOD}/lib/STM32_Blue_Pill/STM32_Blue_Pill.lib)(options "")(descr ""))
+  (lib (name RFM95W-868S2)(type Legacy)(uri ${KIPRJMOD}/lib/RFM95W-868S2/RFM95W-868S2.lib)(options "")(descr ""))
+  (lib (name B4B-XH-A_JST)(type Legacy)(uri ${KIPRJMOD}/lib/B4B-XH-A_JST/B4B-XH-A_JST.lib)(options "")(descr ""))
+)

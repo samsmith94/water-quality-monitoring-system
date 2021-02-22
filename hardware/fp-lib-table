@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name IRL540NSTRLPBF)(type KiCad)(uri ${KIPRJMOD}/lib/IRL540NSTRLPBF/IRL540NSTRLPBF.pretty)(options "")(descr ""))
+  (lib (name PC817X2NIP1B)(type KiCad)(uri ${KIPRJMOD}/lib/PC817X2NIP1B/PC817X2NIP1B.pretty)(options "")(descr ""))
+  (lib (name DRV8825-M)(type KiCad)(uri ${KIPRJMOD}/lib/DRV8825-M/DRV8825-M.pretty)(options "")(descr ""))
+  (lib (name STM32_Blue_Pill)(type KiCad)(uri ${KIPRJMOD}/lib/STM32_Blue_Pill/STM32_Blue_Pill.pretty)(options "")(descr ""))
+  (lib (name RFM95W-868S2)(type KiCad)(uri ${KIPRJMOD}/lib/RFM95W-868S2/RFM95W-868S2.pretty)(options "")(descr ""))
+  (lib (name B4B-XH-A_JST)(type KiCad)(uri ${KIPRJMOD}/lib/B4B-XH-A_JST/B4B-XH-A_JST.pretty)(options "")(descr ""))
+)

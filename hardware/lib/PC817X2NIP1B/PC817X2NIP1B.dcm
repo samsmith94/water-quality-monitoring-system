@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EL817
+D DC Optocoupler, Vce 35V, DIP-4
+K NPN DC Optocoupler
+F http://www.everlight.com/file/ProductFile/EL817.pdf
+$ENDCMP
+#
+$CMP PC817X2NIP1B
+D DC Optocoupler, Vce 35V, CTR 50-300%, DIP-4
+K NPN DC Optocoupler
+F http://www.soselectronic.cz/a_info/resource/d/pc817.pdf
+$ENDCMP
+#
+#End Doc Library
